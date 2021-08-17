@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seledia
-- 👀 I’m interested in videogames, Cosplay, pets, travels
+- 👀 I’m interested in videogames, Cosplay, pets, travels, plants
 - 🌱 I’m currently learning Java, React and Git
 - 💞️ I’m looking to collaborate on don't know
 - 📫 How to reach me celia.salaslopez@gmail.com
